@@ -71,9 +71,6 @@ Install with:
 pip install -r requirements.txt
 ```
 
-## 📷 Screenshots
-
-_Add screenshots here if you'd like to show the web UI._
 
 ## 📄 License
 
@@ -81,4 +78,4 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-- **Your Name** – [@your_github](https://github.com/your-username)
+- **Your Name** – https://github.com/Raghav077
