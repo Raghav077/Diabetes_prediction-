@@ -54,10 +54,10 @@ ML_project/
 ![Screenshot 2025-05-07 081510](https://github.com/user-attachments/assets/b6f75af8-79af-46f4-a077-b2bdb00dbb4a)
 
 ## 📦 Dependencies
-Flask
-pandas
-scikit-learn
-pickle (standard library)
+- Flask
+- pandas
+- scikit-learn
+- pickle (standard library)
 
 ## 🙋‍♂️ Author
 Your Name - Raghav077
